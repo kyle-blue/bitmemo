@@ -61,7 +61,7 @@
     "utf-8-validate": "^5.0.2",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^5.2.2"
   },
   "comments": [
     "fibers, sass, canvas and utf-validate are peer dependencies. Only required because of other dependencies."
